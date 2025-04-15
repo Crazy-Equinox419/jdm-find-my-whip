@@ -1,4 +1,5 @@
 
+import { MapPin } from "lucide-react";
 import { Card, CardContent, CardFooter } from "./ui/card";
 
 interface CarCardProps {
