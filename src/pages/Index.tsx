@@ -1,3 +1,4 @@
+
 import { SearchBar } from "@/components/SearchBar";
 import { CarCard } from "@/components/CarCard";
 
@@ -31,7 +32,7 @@ const SAMPLE_CARS = [
   },
   {
     id: 4,
-    image: "https://images.unsplash.com/photo-1559719745-dd8f081b45c1?w=800&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547744152-cd7a5fc5afe3?w=800&auto=format&fit=crop&q=60",
     name: "Honda NSX Type R",
     price: 120000,
     year: 1992,
@@ -40,7 +41,7 @@ const SAMPLE_CARS = [
   },
   {
     id: 5,
-    image: "https://images.unsplash.com/photo-1580274455191-1c62238fa333?w=800&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1617075820214-c4228641adef?w=800&auto=format&fit=crop&q=60",
     name: "Mitsubishi Lancer Evolution VIII",
     price: 35000,
     year: 2004,
@@ -49,7 +50,7 @@ const SAMPLE_CARS = [
   },
   {
     id: 6,
-    image: "https://images.unsplash.com/photo-1623013438264-d176fb91ee99?w=800&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1617659857070-e02407a3a9dc?w=800&auto=format&fit=crop&q=60",
     name: "Subaru Impreza WRX STI",
     price: 28000,
     year: 2005,
